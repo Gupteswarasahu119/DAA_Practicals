@@ -6,8 +6,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 👨‍🎓 Student Information
 
-**Name:** VENKATA SHARATH KUMAR JAKKI, Gupteswara Sahu
-**Enrollment No.:** 92460118301
+**Name:** Gupteswara Sahu
+**Enrollment No.:** 92460118119
 **Course:** B.Tech – Artificial Intelligence & Machine Learning
 **Subject:** Data Analysis and Algorithms (DAA)
 
@@ -97,9 +97,8 @@ Through these practicals, I gained knowledge of:
 * Git
 * GitHub
 
-## 📌 Authors
+## 📌 Author
 
-**VENKATA SHARATH KUMAR JAKKI**
 **Gupteswara Sahu**
 
 **B.Tech – Artificial Intelligence & Machine Learning**
